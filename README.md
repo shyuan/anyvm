@@ -25,9 +25,9 @@ anyvm listall go
   Show all availabe version for golang
 
 # Reference
-## Node.js
-   * [nvm](https://github.com/creationix/nvm)
-   * [nodebrew](https://github.com/hokaccha/nodebrew)
+  # Node.js
+    * [nvm](https://github.com/creationix/nvm)
+    * [nodebrew](https://github.com/hokaccha/nodebrew)
 ## Perl
    * perlbrew
 ## PHP
