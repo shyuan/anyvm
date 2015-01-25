@@ -2,12 +2,13 @@
 Version Manager for any language
 
 # Support Language
-* golang
-* ruby
-* python
-* php
-* perl
-* node.js
+* [Go](https://golang.org/)
+* [Ruby](https://www.ruby-lang.org)
+* [Python](https://www.python.org/)
+* [php](http://php.net/)
+* [Perl](https://www.perl.org/)
+* [Node.js](http://nodejs.org/)
+* [Scala](http://www.scala-lang.org/)
 
 # Requirement
 
@@ -24,20 +25,31 @@ anyvm install go 1.4
 anyvm listall go
   Show all availabe version for golang
 
-# Reference
-  # Node.js
-    * [nvm](https://github.com/creationix/nvm)
-    * [nodebrew](https://github.com/hokaccha/nodebrew)
+# Referenced Projects
+
+## Node.js
+   * [nvm](https://github.com/creationix/nvm)
+   * [nodebrew](https://github.com/hokaccha/nodebrew)
+
 ## Perl
-   * perlbrew
+   * [perlbrew](http://perlbrew.pl/)
+
 ## PHP
-   * phpbrew
+   * [phpbrew](http://phpbrew.github.io/phpbrew/)
+
 ## Ruby
-   * rvm
-   * rbenv
+   * [rvm](https://rvm.io/)
+   * [rbenv](https://github.com/sstephenson/rbenv)
+
 ## Golnag
-   * gvm
+   * [gvm](https://github.com/moovweb/gvm)
+
 ## Python
-   * pyenv
-## Grooby
-   * gvm-cli
+   * [pyenv](https://github.com/yyuu/pyenv)
+
+## Groovy
+   * [gvm-cli](https://github.com/gvmtool/gvm-cli)
+
+## Scala
+   * [toolbear/svm](https://github.com/toolbear/svm)
+   * [yuroyoro/svm](https://github.com/yuroyoro/svm)
