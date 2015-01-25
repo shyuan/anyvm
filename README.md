@@ -5,7 +5,7 @@ Version Manager for any language
 * [Go](https://golang.org/)
 * [Ruby](https://www.ruby-lang.org)
 * [Python](https://www.python.org/)
-* [php](http://php.net/)
+* [PHP](http://php.net/)
 * [Perl](https://www.perl.org/)
 * [Node.js](http://nodejs.org/)
 * [Scala](http://www.scala-lang.org/)
